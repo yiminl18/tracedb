@@ -1,0 +1,13 @@
+# Working folders: raw traces, samples, local scripts, and other people's repos.
+# The repo keeps only data/, observation/ and code/.
+/harvard_trace/
+/multi_trace/
+/sample_traces/
+/scripts/
+/goals.md
+/observations.md
+
+*.pkl
+*.zst
+__pycache__/
+.DS_Store

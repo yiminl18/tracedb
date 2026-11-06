@@ -1,0 +1,11 @@
+label,dir,harness,type,session_id,week,day,n_requests,n_tool_calls,n_subagents,duration_min,models
+p05,p05-codex-f6279fe9,codex,mixed-other,f6279fe91ce86caec1c11e60dd4c8ef9,2026-08-30_2026-09-05,2026-09-05,3,2,0,1.6,"deepseek-v4-flash,glm-5.3-flash"
+p15,p15-hermes-4fdb9d7e,hermes,mixed-other,4fdb9d7ebbd5e7d528a15ec6e93afc81,2026-08-16_2026-08-22,2026-08-21,7,13,0,37.8,glm-5.2
+p25,p25-pi-ffe69cda,pi,mixed-other,ffe69cda20ecc6dea1dd1fd87acfab35,2026-08-09_2026-08-15,2026-08-12,10,12,0,15.6,deepseek-v4-flash
+p35,p35-claude-code-0fcfb451,claude-code,mixed-other,0fcfb451a3caf832446314759facc679,2026-08-16_2026-08-22,2026-08-17,18,25,0,66.9,"deepseek-v4-flash,diffusiongemma,minimax-m2.5,minimax-m3,qwen3.6-35b"
+p45,p45-oh-my-pi-3f40bbed,oh-my-pi,mixed-other,3f40bbed215442355454cf1993caac69,2026-06-28_2026-07-04,2026-06-29,27,27,0,39.1,glm-5.2
+p55-subagents,p55-subagents-hermes-0074b65e,hermes,mixed-other,0074b65e15a046956b6d0b07a14170d0,2026-07-26_2026-08-01,2026-08-01,57,71,1,4.5,minimax-m3
+p65,p65-opencode-e71f5389,opencode,mixed-other,e71f53891965f5ac7a68b717d0f4cad0,2026-08-30_2026-09-05,2026-08-31,60,52,0,75.8,minimax-m3
+p75,p75-openclaw-dfbaf726,openclaw,mixed-other,dfbaf726e0e090ef207f1655f82720b4,2026-08-09_2026-08-15,2026-08-13,99,103,0,89.7,glm-5.1
+p85,p85-zcode-353bca97,zcode,mixed-other,353bca97dabaf3f22079154354323a6d,2026-06-21_2026-06-27,2026-06-27,178,163,0,225.9,glm-5.2
+p95,p95-copilot-263d0bbb,copilot,mixed-other,263d0bbbc290704756e9b42e279a162d,2026-07-12_2026-07-18,2026-07-16,201,235,0,134.3,"glm-5.1,qwen3.6-35b"

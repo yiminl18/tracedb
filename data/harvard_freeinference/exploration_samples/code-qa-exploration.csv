@@ -1,0 +1,11 @@
+label,dir,harness,type,session_id,week,day,n_requests,n_tool_calls,n_subagents,duration_min,models
+p05,p05-oh-my-pi-94e0ec35,oh-my-pi,code-qa-exploration,94e0ec3507f5d83ddf547815b71f0dd1,2026-08-23_2026-08-29,2026-08-27,4,5,0,6.1,glm-5.2
+p15,p15-hermes-56d95bff,hermes,code-qa-exploration,56d95bff9b418365ee3c7170054650a9,2026-07-26_2026-08-01,2026-07-29,8,15,0,390.1,"deepseek-v4-flash,diffusiongemma,glm-5.1,minimax-m2.5,minimax-m3,qwen3.6-35b"
+p25,p25-opencode-e44fd90a,opencode,code-qa-exploration,e44fd90ae6a8de19398755b7b1b219e4,2026-07-26_2026-08-01,2026-07-30,11,15,0,431.5,glm-5.1
+p35,p35-eval_swe-bench-f1f25068,eval:swe-bench,code-qa-exploration,f1f2506842d0602f5f53cfa01bf597bc,2026-06-21_2026-06-27,2026-06-25,15,15,0,0.3,qwen3.6-35b
+p45,p45-codex-db41970f,codex,code-qa-exploration,db41970f3a57d22247d02d933054eeca,2026-08-16_2026-08-22,2026-08-17,21,35,0,1433.4,deepseek-v4-flash
+p55,p55-copilot-a6e3311d,copilot,code-qa-exploration,a6e3311d256620b7b4131857015deb1d,2026-06-28_2026-07-04,2026-06-28,30,42,0,98.1,qwen3.6-35b
+p65,p65-zoo-d164ac00,zoo,code-qa-exploration,d164ac00409599df3382e33045f6dafe,2026-07-05_2026-07-11,2026-07-06,43,57,0,67.0,minimax-m3
+p75,p75-claude-code-198805e7,claude-code,code-qa-exploration,198805e7b2684aaec49dba33863399aa,2026-07-12_2026-07-18,2026-07-18,64,63,0,16.8,deepseek-v4-flash
+p85,p85-pi-1064425a,pi,code-qa-exploration,1064425adc602568ae623a0cb5866a94,2026-06-28_2026-07-04,2026-06-30,93,91,0,27.6,kimi-k2.7-code
+p95,p95-kilo-9496be7a,kilo,code-qa-exploration,9496be7a5dc162e5cc5a76452e9eae8d,2026-05-17_2026-05-23,2026-05-23,171,211,3,128.8,"glm-5.1,minimax-m2.7"

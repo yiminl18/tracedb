@@ -1,0 +1,11 @@
+label,dir,harness,type,session_id,week,day,n_requests,n_tool_calls,n_subagents,duration_min,models
+p05,p05-pi-37f13138,pi,coding,37f131384b0458d6fc4210c0e9c83e23,2026-06-28_2026-07-04,2026-07-04,9,7,0,5.4,minimax-m2.5
+p15,p15-eval_swe-bench-57a48b01,eval:swe-bench,coding,57a48b01e4ef7973ca371b6df1b59118,2026-07-05_2026-07-11,2026-07-06,19,19,0,0.6,qwen3.6-35b
+p25,p25-hermes-c708749d,hermes,coding,c708749d915fcc041a278e4425d1a8f7,2026-08-09_2026-08-15,2026-08-11,29,27,0,4.8,deepseek-v4-flash
+p35,p35-opencode-c0ed660c,opencode,coding,c0ed660c0b19f7e8f081e797af7754c1,2026-08-30_2026-09-05,2026-08-31,42,41,0,30.1,deepseek-v4-flash
+p45,p45-zoo-021ec430,zoo,coding,021ec430fff8f38c10af2efa30385b3c,2026-06-28_2026-07-04,2026-07-03,59,76,0,40.0,minimax-m3
+p55,p55-openclaw-94305746,openclaw,coding,94305746664bf0430554874b426d7332,2026-06-21_2026-06-27,2026-06-24,78,67,0,42.2,kimi-k2.7-code
+p65,p65-copilot-44341369,copilot,coding,44341369cc686dc1dcdac583d8e27f33,2026-07-12_2026-07-18,2026-07-14,105,134,0,1245.8,glm-5.1
+p75,p75-kilo-e3af230d,kilo,coding,e3af230d7e02b94ee43a223bf3c146ce,2026-08-23_2026-08-29,2026-08-29,145,202,4,51.2,glm-5.3-flash
+p85,p85-oh-my-pi-aee671f8,oh-my-pi,coding,aee671f814b1dc1d64ac6eea568f898f,2026-08-30_2026-09-05,2026-09-05,233,269,0,79.5,deepseek-v4-flash
+p95,p95-claude-code-4241f597,claude-code,coding,4241f597180f39be444e0ddd6a2f3049,2026-08-02_2026-08-08,2026-08-05,486,528,4,225.4,deepseek-v4-flash

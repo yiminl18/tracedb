@@ -1,0 +1,11 @@
+label,dir,harness,type,session_id,week,day,n_requests,n_tool_calls,n_subagents,duration_min,models
+p05,p05-claude-code-68c1fafd,claude-code,assistant-workflow,68c1fafd47d54df472b2b9e45f68dac9,2026-08-09_2026-08-15,2026-08-13,4,3,0,2.4,"diffusiongemma,minimax-m2.5"
+p15,p15-hermes-1351ca7a,hermes,assistant-workflow,1351ca7a129a27f9ca69aaec8c58742b,2026-08-09_2026-08-15,2026-08-10,7,5,0,1.4,glm-5.1
+p25,p25-pi-41bc2b1b,pi,assistant-workflow,41bc2b1baa03279802056b9de4d527b0,2026-08-23_2026-08-29,2026-08-27,11,12,0,5.9,deepseek-v4-flash
+p35,p35-copilot-ac407cee,copilot,assistant-workflow,ac407cee988af9b5fcf26d2031c9d932,2026-08-16_2026-08-22,2026-08-22,15,18,0,7.3,"glm-5.2,minimax-m3"
+p45,p45-hermes-e9ae841c,hermes,assistant-workflow,e9ae841c1850116bae0cde293498d581,2026-08-02_2026-08-08,2026-08-07,21,19,0,7.0,minimax-m3
+p55-subagents,p55-subagents-hermes-997a3c3c,hermes,assistant-workflow,997a3c3cb5e8dcd114188a56a9288a9f,2026-07-12_2026-07-18,2026-07-17,98,115,3,15.7,glm-5.2
+p65,p65-hermes-d3c62705,hermes,assistant-workflow,d3c62705b7dc23b507a0f9b237f67ef4,2026-08-30_2026-09-05,2026-08-31,30,24,0,553.6,glm-5.3-flash
+p75,p75-copilot-2084385e,copilot,assistant-workflow,2084385ebea5225caf23a28e8a53298f,2026-08-09_2026-08-15,2026-08-13,41,45,0,174.4,"deepseek-v4-flash,glm-5.1"
+p85,p85-hermes-b65345d0,hermes,assistant-workflow,b65345d00bafd19bea13c3d089c8d504,2026-08-30_2026-09-05,2026-09-04,50,46,0,1054.5,glm-5.3
+p95,p95-copilot-c5c3e9c0,copilot,assistant-workflow,c5c3e9c0589a00e3c217202b99274c4b,2026-08-23_2026-08-29,2026-08-25,130,139,0,1273.0,"deepseek-v4-flash,minimax-m3"

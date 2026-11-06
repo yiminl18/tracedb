@@ -1,0 +1,11 @@
+label,dir,harness,type,session_id,week,day,n_requests,n_tool_calls,n_subagents,duration_min,models
+p05,p05-hermes-83f69000,hermes,web-research-qa,83f6900030ac9a6983dcbe929c5965d5,2026-06-28_2026-07-04,2026-07-02,4,5,0,4.8,glm-5.2
+p15,p15-kilo-a2cfd6f9,kilo,web-research-qa,a2cfd6f90c40a9a2d88c83b4b50a069d,2026-07-26_2026-08-01,2026-07-26,6,5,0,19.8,glm-5.1
+p25,p25-pi-32e50ab0,pi,web-research-qa,32e50ab0143955f6b89a37590d03d0f2,2026-08-30_2026-09-05,2026-09-04,9,14,0,5.2,deepseek-v4-flash
+p35,p35-oh-my-pi-b3512954,oh-my-pi,web-research-qa,b3512954d7f3ce50bb1a827cafe6c484,2026-08-16_2026-08-22,2026-08-16,11,16,0,17.3,deepseek-v4-flash
+p45,p45-openclaw-83ed5b95,openclaw,web-research-qa,83ed5b95cb0b1682d17673730daf4545,2026-07-05_2026-07-11,2026-07-08,15,7,0,104.1,minimax-m3
+p55,p55-opencode-eba1718e,opencode,web-research-qa,eba1718ef53071866be861da3dd5c058,2026-08-23_2026-08-29,2026-08-29,19,21,0,711.9,"glm-5.3-flash,minimax-m3"
+p65,p65-codex-56e71b9d,codex,web-research-qa,56e71b9d04d9f6275d34934551873b1a,2026-07-26_2026-08-01,2026-07-26,25,21,0,362.3,deepseek-v4-flash
+p75,p75-copilot-918413a6,copilot,web-research-qa,918413a68f5b800999016d1ad0d63a08,2026-08-23_2026-08-29,2026-08-29,31,35,0,127.5,deepseek-v4-flash
+p85,p85-cline-13ae18fc,cline,web-research-qa,13ae18fc800836bf825e30011667f98a,2026-07-26_2026-08-01,2026-07-26,47,65,0,53.0,glm-5.1
+p95,p95-claude-code-9970aba2,claude-code,web-research-qa,9970aba21cb5e4eef8e8def5690f1e12,2026-08-23_2026-08-29,2026-08-27,104,125,1,4.8,glm-5.2

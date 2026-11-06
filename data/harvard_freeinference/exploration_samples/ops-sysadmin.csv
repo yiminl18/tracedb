@@ -1,0 +1,11 @@
+label,dir,harness,type,session_id,week,day,n_requests,n_tool_calls,n_subagents,duration_min,models
+p05,p05-pi-683c148f,pi,ops-sysadmin,683c148f8cbf811a825656088f9d3839,2026-08-30_2026-09-05,2026-08-31,5,3,0,856.2,deepseek-v4-flash
+p15,p15-hermes-ba1e3e0b,hermes,ops-sysadmin,ba1e3e0bdc97f4c4c660c3f33a81665d,2026-08-16_2026-08-22,2026-08-16,10,7,0,14.5,deepseek-v4-flash
+p25,p25-oh-my-pi-cfb1334f,oh-my-pi,ops-sysadmin,cfb1334f7a813c9f6f678c9950f030ff,2026-06-28_2026-07-04,2026-06-30,16,20,0,9.6,glm-5.1
+p35,p35-zcode-6c29f90c,zcode,ops-sysadmin,6c29f90cb2aa8c1f6c52122ff4b7e1eb,2026-08-23_2026-08-29,2026-08-27,23,24,0,22.5,deepseek-v4-flash
+p45,p45-opencode-a817382d,opencode,ops-sysadmin,a817382d493d2abc321c1ebc73b0f1dc,2026-08-23_2026-08-29,2026-08-27,29,28,0,409.4,deepseek-v4-flash
+p55-subagents,p55-subagents-opencode-88ad0c04,opencode,ops-sysadmin,88ad0c04f6677416c1e63736ea9a1014,2026-07-12_2026-07-18,2026-07-13,129,191,3,518.3,glm-5.1
+p65,p65-codex-c2e87d63,codex,ops-sysadmin,c2e87d63b1a817eb4581bc9b5584e7f1,2026-08-02_2026-08-08,2026-08-05,52,53,0,203.5,deepseek-v4-flash
+p75,p75-claude-code-c899c48d,claude-code,ops-sysadmin,c899c48d3a1a847c840b2205d99348a3,2026-07-19_2026-07-25,2026-07-19,71,67,0,79.7,glm-5.2
+p85,p85-openclaw-a404a7e9,openclaw,ops-sysadmin,a404a7e98ad56e46b04a5035800c97a2,2026-06-14_2026-06-20,2026-06-19,108,106,0,40.0,"glm-5.1,kimi-k2.7-code"
+p95,p95-kilo-1c7a4900,kilo,ops-sysadmin,1c7a4900e8880549cacae1257d96949a,2026-05-17_2026-05-23,2026-05-17,163,166,0,85.8,minimax-m2.7

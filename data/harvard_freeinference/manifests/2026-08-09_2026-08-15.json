@@ -1,0 +1,53 @@
+{
+  "format_version": 1,
+  "week": "2026-08-09_2026-08-15",
+  "tokenizer": "o200k_base",
+  "block_tokens": 16,
+  "salt_series": "1b437658707a6c7e",
+  "excluded_sessions": {
+    "the first request's phrases name no harness": 222
+  },
+  "distinct_block_ids": 23530795,
+  "files": {
+    "traces/2026-08-08.jsonl": {
+      "bytes": 10530789,
+      "sha256": "351c1e6026a2470ba6ac1ab2f06b01bec5a940cab0e890fc7fbc9de7f56b74e2",
+      "lines": 3
+    },
+    "traces/2026-08-09.jsonl": {
+      "bytes": 3812704249,
+      "sha256": "ba70bc870e06005c5d44230ccd63b9aeec0596421733c3c72a7b7047d38690f6",
+      "lines": 214
+    },
+    "traces/2026-08-10.jsonl": {
+      "bytes": 2945677046,
+      "sha256": "805f2e95a83530dfdae222ac7980e70c879e0a927c0ba24a5403c56fdfd5e8e2",
+      "lines": 210
+    },
+    "traces/2026-08-11.jsonl": {
+      "bytes": 2659017928,
+      "sha256": "3b7f01eb8131d239a34998d1d82b22017de5527842dd6b22fc2dd3361c39ae23",
+      "lines": 194
+    },
+    "traces/2026-08-12.jsonl": {
+      "bytes": 1595418303,
+      "sha256": "76a57d21c6a35fcd36b37e8629a5656e7c5129c2e9a847520176825070ab9c59",
+      "lines": 233
+    },
+    "traces/2026-08-13.jsonl": {
+      "bytes": 2448891669,
+      "sha256": "dda5ab4d8c263056b2e3017fc9e0db3907624c5f248915f1d1f198a9cc03f8cd",
+      "lines": 201
+    },
+    "traces/2026-08-14.jsonl": {
+      "bytes": 1998941824,
+      "sha256": "a20b95f2586cb5f6063485b7d836da76a687c0244fe6058f068cbd41c797d93b",
+      "lines": 146
+    },
+    "traces/2026-08-15.jsonl": {
+      "bytes": 1700643660,
+      "sha256": "853aee8bb7e50a34482339176bd6c00c202d74db080a5cd0fbae40f1997e8941",
+      "lines": 152
+    }
+  }
+}
